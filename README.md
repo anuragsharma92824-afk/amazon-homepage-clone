@@ -19,12 +19,12 @@ Screenshots
 
 Home Page
 
-![Home] (amazon-homepage-navbar.png)
+![Home](amazon-homepage-navbar.png)
 
 Products Section
 
-![Home] (amazon-homepage-products.png)
+![Home](amazon-homepage-products.png)
 
 Footer Section
 
-![Home] (amazon-homepage-footer.png)
+![Home](amazon-homepage-footer.png)
