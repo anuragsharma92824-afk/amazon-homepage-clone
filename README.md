@@ -1,7 +1,8 @@
 Amazon Homepage Clone
 
 This project is an Amazon-inspired homepage clone created using HTML and CSS.
-
+Live Demo
+ https://anuragsharma92824-afk.github.io/amazon-homepage-clone/
 Features
 
 - Responsive Navbar
